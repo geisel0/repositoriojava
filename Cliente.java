@@ -8,4 +8,12 @@ public class Cliente{
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+
+    public String getApellido(){
+        return apaellido;
+    }
+
+    
+
+    
 }
